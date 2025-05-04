@@ -39,8 +39,8 @@ The dashboard helps stakeholders make informed decisions about **inventory manag
 ---
 
 ## 📂 Project Files
-- `Medicine_Sales_Report.pbix` → Power BI dashboard file
-- `Medicine_Sales_Report.pdf` → Exported PDF version of the dashboard
+- `Medicine Sales Report.pbix` → Power BI dashboard file
+- `Medicine Sales Report PDF.pdf` → Exported PDF version of the dashboard
 
 ---
 
@@ -48,14 +48,6 @@ The dashboard helps stakeholders make informed decisions about **inventory manag
 1. Download or clone this repository
 2. Open `Medicine_Sales_Report.pbix` in **Power BI Desktop**
 3. Explore, customize, or enhance the dashboard as per your business needs
-
----
-
-## 💡 Future Enhancements
-- Add slicers/filters for better interactivity
-- Improve color contrast and theme for accessibility
-- Include trendlines and target benchmarks
-- Optimize layout by removing duplicate visuals
 
 ---
 
